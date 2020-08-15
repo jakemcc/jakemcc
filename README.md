@@ -6,6 +6,8 @@ Sign up for my [mailing list](https://jakemccrary.substack.com/welcome) (a perio
 
 I'm into fast feedback at all levels of the development cycle.
 
-Of my open source work, I'm probably most proud of [lein-test-refresh](https://github.com/jakemcc/lein-test-refresh) and [lein-autoexpect](https://github.com/clojure-expectations/lein-autoexpect).
+Of my open source work, I'm most proud of [lein-test-refresh](https://github.com/jakemcc/lein-test-refresh) and [lein-autoexpect](https://github.com/clojure-expectations/lein-autoexpect).
 Both enable fast feedback by running your Clojure tests as quick as possible after saving your Clojure code.
 Their code isn't the prettiest but it works and I've had very experienced Clojure programs say `lein-test-refresh` has changed their development style.
+
+You can also find me on [Twitter](https://twitter.com/jakemcc).
